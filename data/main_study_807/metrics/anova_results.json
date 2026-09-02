@@ -1,0 +1,13 @@
+{
+  "fallback": {
+    "one_way_model": {
+      "F": 1510.6026458653068,
+      "p": 0.0
+    },
+    "one_way_technique": {
+      "F": 83.65399657166721,
+      "p": 2.215654579365921e-120
+    },
+    "note": "statsmodels not installed; full two-way ANOVA skipped"
+  }
+}
